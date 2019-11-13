@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35067d48-03f1-4495-8f37-bb1941c38729" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digits_cls.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-chrome-stable_current_amd64.deb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haarcascade_eye.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_save_path" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otp.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pan_card.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t.jpgremoved_noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t.jpgthres.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wget-log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/OTP READING FROM VIDEO-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/OTP READING FROM VIDEO-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OTP READING FROM VIDEO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OTP READING FROM VIDEO.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf/new.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf/new.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf/pdf reader.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf/pdf reader.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TK0qN8vETuyR8WQ2ldQv7zIAqS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pdf" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PAN CARD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OTP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAN CARD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PAN CARD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35067d48-03f1-4495-8f37-bb1941c38729" name="Default Changelist" comment="" />
+      <created>1573193669496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573193669496</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add new file pan card">
+      <created>1573193846707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573193846707</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add new file pan card" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new file pan card" />
+  </component>
+</project>
